@@ -1,7 +1,5 @@
 # Home-Credit-Default-Risk-Prediction
 
-# Home Credit Default Risk – AML Project (Group 6)
-
 ## 📌 Problem Statement
 Predict whether a loan applicant will default using historical data provided by Home Credit. This is a supervised binary classification problem.
 
